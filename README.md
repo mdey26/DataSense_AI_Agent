@@ -73,7 +73,7 @@ Built for the Google X × Kaggle Agentic AI Capstone, this project demonstrates:
 🛠️ Installation Guide
 1️⃣ Clone the Repository
 
-  git clone https://github.com/YOUR_USERNAME/DataSense_AI_Agent.git
+  git clone https://github.com/mdey26/DataSense_AI_Agent.git
   cd DataSense_AI_Agent
 
 2️⃣ Install Dependencies
