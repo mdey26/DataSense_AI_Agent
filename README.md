@@ -1,6 +1,6 @@
 # DataSense_AI_Agent
 
-<div align="center">✨ Turn Any CSV Into Insights, Anomalies & Reports — Automatically</div>
+✨ Turn Any CSV Into Insights, Anomalies & Reports — Automatically
 DataSense AI is a full multi-agent intelligence pipeline designed to autonomously ingest, analyze, detect anomalies, visualize, and generate PDF reports from any dataset — with zero manual analysis required.
 
 Built for the Google X × Kaggle Agentic AI Capstone, this project demonstrates:
